@@ -1,0 +1,3 @@
+[05-Dec-2021 16:01:21 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'includes/site-master.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home7/herosol/public_html/abida/xpat/application/views/pages/privacy-policy.php on line 6
+[31-Dec-2021 03:00:58 America/New_York] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 532692992 bytes) in /home7/herosol/public_html/abida/upcarx/application/views/pages/search.php on line 60
+[31-Dec-2021 03:01:24 America/New_York] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 532692992 bytes) in /home7/herosol/public_html/abida/upcarx/application/views/pages/search.php on line 60
